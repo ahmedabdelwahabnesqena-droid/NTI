@@ -1,9 +1,7 @@
 import numpy as np
 print("hello world")
 import pandas as pd
-def helloworld(x=30,y=20):
+def helloworld(x=30,y=10):
     print(x)
 helloworld()
     
-
-        
